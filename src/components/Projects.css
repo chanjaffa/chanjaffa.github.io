@@ -1,0 +1,27 @@
+.projects-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 60px 20px;
+  text-align: left;
+  font-family: Arial, sans-serif;
+}
+
+.projects-container h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.projects-container p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.projects-container ul {
+  padding-left: 20px;
+}
+
+.projects-container li {
+  margin-bottom: 10px;
+  font-size: 1.05rem;
+}
