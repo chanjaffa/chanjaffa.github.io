@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.4843be86.css",
-    "main.js": "/static/js/main.f80fa4e3.js",
+    "main.css": "/static/css/main.1471017e.css",
+    "main.js": "/static/js/main.4842e733.js",
     "static/js/453.2291aba8.chunk.js": "/static/js/453.2291aba8.chunk.js",
+    "static/media/chancewaterfall.jpg": "/static/media/chancewaterfall.9016334ea4f3e28a3e66.jpg",
+    "static/media/chanceforest.jpg": "/static/media/chanceforest.c8367dd3c3b8451a20c6.jpg",
+    "static/media/chancemountain.jpg": "/static/media/chancemountain.696bd80cfeb1d699df9b.jpg",
+    "static/media/chancearmspread.jpg": "/static/media/chancearmspread.2a4b4a90da00309edae2.jpg",
+    "static/media/chancesfu.jpg": "/static/media/chancesfu.e58124aa8696e9245a56.jpg",
     "index.html": "/index.html",
-    "main.4843be86.css.map": "/static/css/main.4843be86.css.map",
-    "main.f80fa4e3.js.map": "/static/js/main.f80fa4e3.js.map",
+    "main.1471017e.css.map": "/static/css/main.1471017e.css.map",
+    "main.4842e733.js.map": "/static/js/main.4842e733.js.map",
     "453.2291aba8.chunk.js.map": "/static/js/453.2291aba8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4843be86.css",
-    "static/js/main.f80fa4e3.js"
+    "static/css/main.1471017e.css",
+    "static/js/main.4842e733.js"
   ]
 }
