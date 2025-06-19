@@ -20,6 +20,11 @@ const Contact = () => {
         <a href="https://www.instagram.com/chancewije/" target="_blank" rel="noreferrer">Instagram</a>
         <a href="https://www.facebook.com/chance.wije" target="_blank" rel="noreferrer">Facebook</a>
       </div>
+      <div className="resume-download">
+        <a href="/resume.pdf" download className="resume-button">
+          📄 Download My Resume
+        </a>
+      </div>
     </div>
   );
 };

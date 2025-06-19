@@ -1,5 +1,9 @@
 import React from 'react';
 import './About.css';
+import armspread from '../assets/chancearmspread.jpg';
+import forest from '../assets/chanceforest.jpg';
+import mountain from '../assets/chancemountain.jpg';
+import waterfall from '../assets/chancewaterfall.jpg';
 
 const About = () => {
   return (
@@ -20,6 +24,12 @@ const About = () => {
       <p>
         Whether I’m on the trail or diving into code, I’m always excited to learn, connect, and build.
       </p>
+      <div className="about-image-gallery">
+        <img src={armspread} alt="Chance arms spread" />
+        <img src={forest} alt="Chance in forest" />
+        <img src={mountain} alt="Chance on mountain" />
+        <img src={waterfall} alt="Chance at waterfall" />
+      </div>
     </div>
   );
 };
